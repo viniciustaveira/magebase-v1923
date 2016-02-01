@@ -13,4 +13,4 @@ Estrutura base de instalação do Magento 1.9.2.3
 ### Outras opções de instalação:
 
 - Branch "before-install" para instalar o magento limpo;
-- Branch "sample-data-before-install" para instalação do magento exemplo com suas próprias configurações.
+- Branch "sample-data-before-install" para instalação da loja exemplo com suas próprias configurações.
