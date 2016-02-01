@@ -3,10 +3,10 @@ Estrutura base de instalação do Magento 1.9.2.3
 
 ##Steps:
 
-+ Clone
-+ Dump database (dump/magebase-v1923.sql)
-+ Configure virtual host (http://magebase-v1923.local/)
-+ Access: [{backUser : admin, password : admin123}, {frontUser : teste@teste.com, password : teste123}]
+1. Clone
+2. Dump database (dump/magebase-v1923.sql)
+3. Configure virtual host (http://magebase-v1923.local/)
+4. Access: [{backUser : admin, password : admin123}, {frontUser : teste@teste.com, password : teste123}]
 
 *Encryption Key: db0eee26e8b2f5a8361038519e177c2d*
 
